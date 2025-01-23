@@ -37,6 +37,6 @@ _Instructie (1 item per dag volstaat):_
 
 _Instructie:_
 
-- Ik ben tevreden over zowel mijn groep als mezelf. We werken goed samen en hebben efficiënt vooruitgang geboekt. Ik voel me wel vermoeid, omdat het een lange dag was.😌😴
+- Ik ben tevreden over zowel mijn groep als mezelf. We werken goed samen en hebben efficiënt vooruitgang geboekt.😌😴
 
 ---

@@ -42,7 +42,7 @@ Vandaag heb ik meer geleerd over motion, wat ik verrassend leuk vond, ondanks da
 
 > **Nieuwe skills:**
 
-- het begrijpen gebruikte camertechnieken in de horrorgenre
+- het begrijpen lgebruikte camertechnieken in de horrorgenre
   > -
 
 ---

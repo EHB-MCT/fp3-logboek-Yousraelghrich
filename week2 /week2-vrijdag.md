@@ -1,47 +1,31 @@
 # Logboek
 
-**Datum:** `[dd/mm/yyyy]`  
-**Studentnaam:** `[Naam]`  
-**Groepsnaam:** `[Groep]`
+**Datum:** `[24/01/2025]`  
+**Studentnaam:** `[yousra]`  
+**Groepsnaam:** `[JPDSPY crew]`
 
 ---
 
 ## 1) Wat heb ik vandaag gedaan voor mijn project?
 
-*Instructie (schrijf in bullets waar je aan gewerkt hebt):*  
-- Benoem de exacte onderdelen of bestanden waar je wijzigingen in hebt doorgevoerd (bijv. “In `index.html` heb ik een overzicht van projecten toegevoegd en drie aanpassingen doorgevoerd in de CSS (voor `ul`, `li` en `.projectname`).”).  
-- Als je iets samen met een teamgenoot hebt gemaakt, vermeld dit er duidelijk bij.
+_Instructie (schrijf in bullets waar je aan gewerkt hebt):_
 
-
-> **Activiteiten:**  
-> - In `index.html` heb ik een overzicht van projecten toegevoegd en drie aanpassingen doorgevoerd in de CSS (voor `ul`, `li` en `.projectname`).  
-> - Samen met [naam teamgenoot] de filterfunctionaliteit in `projects.js` opgezet om alleen lopende projecten te tonen.
+- 's Ochtends heb ik gewerkt aan de voorbereiding van de presentatie, inclusief het kiezen van de video die we zouden tonen en ervoor zorgen dat deze goed aansluit bij ons verhaal.
+- Ik heb nog wat laatste aanpassingen gedaan aan de video om ervoor te zorgen dat de boodschap duidelijk overkwam (gespeeld met geluid)
+- In de namiddag heb ik presentaties van anderen gevolgd, wat me nieuwe inzichten gaf, en zelf ook gepresenteerd met mijn groep.
 
 ---
+
 ## 2) Wat heb ik nieuw geleerd of voor het eerst zelf gedaan?
 
-*Instructie (1 item per dag volstaat):*  
-- Omschrijf kort je persoonlijke vooruitgang.  
-- Dit kunnen technische skills zijn (bijv. een Figma design system setup gemaakt) of soft skills (bijv. team leren aansturen, medestudent gemotiveerd, presentatie gegeven, omgaan met feedback, ...).
+_Instructie (1 item per dag volstaat):_
 
-
-> **Nieuwe skills:**  
-> - Vandaag voor het eerst een gebruikerstest opgezet in Figma en feedback verwerkt in de wireframes.  
-> - Of: Ik heb geleerd hoe ik mijn teamgenoten kan motiveren als ze vastlopen.
+- Ik heb geleerd hoe ik mijn presentatievaardigheden kan verbeteren door niet alleen zelf te presenteren, maar ook door attentief te luisteren naar de presentaties van anderen en deze te gebruiken als leermomenten voor mijn eigen aanpak.
 
 ---
 
 ## 3) Wat is mijn gevoel over vandaag?
 
-*Instructie:*  
-- Noteer in 1 zin hoe je je voelt.  
-- Voeg een kleur of symbool toe dat je stemming weergeeft (bijv. een donderwolk bij boosheid of een happy smiley als je tevreden bent).
+_Instructie:_
 
-
-> **Algmeeen gevoel:**  
-> - **"Blij"** :smiley:  
-> - **"Gefrustreerd"** :zap:
-
----
-
-*Kopieer dit sjabloon voor je volgende dagen en pas de antwoorden telkens aan!*
+- cava tijdens de presentatie had ik wat stress, wat ervoor zorgde dat ik sommige vragen niet helemaal op de juiste manier beantwoordde. Toch heb ik hier veel van geleerd en besefte ik hoe ik mijn stress beter moet beheersen bij toekomstige presentaties.

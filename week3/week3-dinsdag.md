@@ -1,47 +1,40 @@
 # Logboek
 
-**Datum:** `[dd/mm/yyyy]`  
-**Studentnaam:** `[Naam]`  
-**Groepsnaam:** `[Groep]`
+**Datum:** `[28/01/2024]`  
+**Studentnaam:** `[Yousra]`  
+**Groepsnaam:** `[JPDSPY crew]`
 
 ---
 
 ## 1) Wat heb ik vandaag gedaan voor mijn project?
 
-*Instructie (schrijf in bullets waar je aan gewerkt hebt):*  
-- Benoem de exacte onderdelen of bestanden waar je wijzigingen in hebt doorgevoerd (bijv. “In `index.html` heb ik een overzicht van projecten toegevoegd en drie aanpassingen doorgevoerd in de CSS (voor `ul`, `li` en `.projectname`).”).  
-- Als je iets samen met een teamgenoot hebt gemaakt, vermeld dit er duidelijk bij.
+_Instructie (schrijf in bullets waar je aan gewerkt hebt):_
 
-
-> **Activiteiten:**  
-> - In `index.html` heb ik een overzicht van projecten toegevoegd en drie aanpassingen doorgevoerd in de CSS (voor `ul`, `li` en `.projectname`).  
-> - Samen met [naam teamgenoot] de filterfunctionaliteit in `projects.js` opgezet om alleen lopende projecten te tonen.
+- Vandaag ben ik meteen naar het medialab gegaan om te starten met de voorbereidingen voor de opnames.
+- Samen met dave heb ik een aantal dingen aangepast aan de opstelling (stoelen en scherm) omdat we een probleem hadden met het scherm.
+- Voor de middag heb ik nog een paar extra ideeën bedacht voor de video om het visueel interessanter te maken.
+- Ik heb de camera’s en lichten klaargezet voor de opnames en het script goed uitgewerkt zodat we precies wisten welke scènes we hoe zouden filmen.
+- we hebben drie groepen in de klas gevraagd om als publiek te spelen voor de video, zodat de scène natuurlijker overkwam.
+- Nog wat geëxperimenteerd met het licht en de camera-angles om te zien welke het beste werkte voor de gewenste sfeer.
+- Samen met Dave gefilmd, waarbij we alle beelden van verschillende camera’s verzameld hebben voor de montage.
+  - Jordi geholpen met het in elkaar zetten van de pilaar.
 
 ---
+
 ## 2) Wat heb ik nieuw geleerd of voor het eerst zelf gedaan?
 
-*Instructie (1 item per dag volstaat):*  
-- Omschrijf kort je persoonlijke vooruitgang.  
-- Dit kunnen technische skills zijn (bijv. een Figma design system setup gemaakt) of soft skills (bijv. team leren aansturen, medestudent gemotiveerd, presentatie gegeven, omgaan met feedback, ...).
+_Instructie (1 item per dag volstaat):_
 
+- Ik heb geleerd hoe ik verschillende aspecten van de opnames kan beheren, zoals het instellen van de camera-angles, het testen van het licht en het werken met mijn team om de juiste sfeer te creëren.
 
-> **Nieuwe skills:**  
-> - Vandaag voor het eerst een gebruikerstest opgezet in Figma en feedback verwerkt in de wireframes.  
-> - Of: Ik heb geleerd hoe ik mijn teamgenoten kan motiveren als ze vastlopen.
+> **Nieuwe skills:**
+
+- Ik heb voor het eerst als regisseur en coördinator opgetreden 😂
 
 ---
 
 ## 3) Wat is mijn gevoel over vandaag?
 
-*Instructie:*  
-- Noteer in 1 zin hoe je je voelt.  
-- Voeg een kleur of symbool toe dat je stemming weergeeft (bijv. een donderwolk bij boosheid of een happy smiley als je tevreden bent).
+_Instructie:_
 
-
-> **Algmeeen gevoel:**  
-> - **"Blij"** :smiley:  
-> - **"Gefrustreerd"** :zap:
-
----
-
-*Kopieer dit sjabloon voor je volgende dagen en pas de antwoorden telkens aan!*
+- ik ben super tevreden over vandaag we hebben veel kunnen filmen en dit dankzij de samenwerking van andere groepen.

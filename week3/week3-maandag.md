@@ -1,47 +1,40 @@
 # Logboek
 
-**Datum:** `[dd/mm/yyyy]`  
-**Studentnaam:** `[Naam]`  
-**Groepsnaam:** `[Groep]`
+**Datum:** `[27/01/2025]`  
+**Studentnaam:** `[Yousra]`  
+**Groepsnaam:** `[JPDSPY crew]`
 
 ---
 
 ## 1) Wat heb ik vandaag gedaan voor mijn project?
 
-*Instructie (schrijf in bullets waar je aan gewerkt hebt):*  
-- Benoem de exacte onderdelen of bestanden waar je wijzigingen in hebt doorgevoerd (bijv. “In `index.html` heb ik een overzicht van projecten toegevoegd en drie aanpassingen doorgevoerd in de CSS (voor `ul`, `li` en `.projectname`).”).  
-- Als je iets samen met een teamgenoot hebt gemaakt, vermeld dit er duidelijk bij.
+_Instructie (schrijf in bullets waar je aan gewerkt hebt):_
 
-
-> **Activiteiten:**  
-> - In `index.html` heb ik een overzicht van projecten toegevoegd en drie aanpassingen doorgevoerd in de CSS (voor `ul`, `li` en `.projectname`).  
-> - Samen met [naam teamgenoot] de filterfunctionaliteit in `projects.js` opgezet om alleen lopende projecten te tonen.
+- Vandaag heb ik de locatie gezocht samen met dave voor de opnames, zodat we de juiste sfeer en ruimte hadden voor het filmen.
+- Ik heb materiaal uitgeleend en alles georganiseerd zodat we morgen kunnen beginnen met filmen.
+- Feedback gevraagd aan Kobe over de video die we vrijdag gepresenteerd hebben, aangezien hij toen niet aanwezig was, zodat hij toch op de hoogte is van de voortgang.
+- De locatie klaargemaakt voor de opnames van morgen en alles in gereedheid gebracht.
+- Wat test footage gemaakt om de beste camera-angles te bepalen en te kijken welke perspectieven we zeker wel of niet gaan gebruiken.
+- Jordi geholpen met het plakken van de deeltjes die hij heeft gelasercut,omdat hij hulp nodig had.
 
 ---
+
 ## 2) Wat heb ik nieuw geleerd of voor het eerst zelf gedaan?
 
-*Instructie (1 item per dag volstaat):*  
-- Omschrijf kort je persoonlijke vooruitgang.  
-- Dit kunnen technische skills zijn (bijv. een Figma design system setup gemaakt) of soft skills (bijv. team leren aansturen, medestudent gemotiveerd, presentatie gegeven, omgaan met feedback, ...).
+_Instructie (1 item per dag volstaat):_
 
+- ik heb voor het eerst gefilmd met een andere soort camera, die perfect was voor de diepte die we nodig hadden.
 
-> **Nieuwe skills:**  
-> - Vandaag voor het eerst een gebruikerstest opgezet in Figma en feedback verwerkt in de wireframes.  
-> - Of: Ik heb geleerd hoe ik mijn teamgenoten kan motiveren als ze vastlopen.
+> **Nieuwe skills:**
+
+- Vandaag heb ik voor het eerst test footage gemaakt met een Sony α7 III dieptebeeldcamera, waarbij ik verschillende camerahoeken en instellingen heb getest om de beste visuele resultaten te behalen voor onze video-opnames.
+
+- Ik heb geleerd hoe ik deze camera optimaal kan gebruiken, zoals het instellen van de juiste belichting en scherpte, om de gewenste visuele stijl te bereiken.
 
 ---
 
 ## 3) Wat is mijn gevoel over vandaag?
 
-*Instructie:*  
-- Noteer in 1 zin hoe je je voelt.  
-- Voeg een kleur of symbool toe dat je stemming weergeeft (bijv. een donderwolk bij boosheid of een happy smiley als je tevreden bent).
+_Instructie:_
 
-
-> **Algmeeen gevoel:**  
-> - **"Blij"** :smiley:  
-> - **"Gefrustreerd"** :zap:
-
----
-
-*Kopieer dit sjabloon voor je volgende dagen en pas de antwoorden telkens aan!*
+- ik vond het super interessant om is verschillend apparatuur te gebruiken en de feedback die we hebben ontvangen was zeer nuttig 😌
